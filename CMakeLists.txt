@@ -16,7 +16,7 @@ if(MSVC)
 endif()
 
 # Путь к SFML (укажите ваш путь)
-set(SFML_ROOT "C:/Users/yusef/libc++/SFML-3.0.2")
+set(SFML_ROOT "add your own path to SFML")
 
 set(SOURCES
     src/Tetoris.cpp
