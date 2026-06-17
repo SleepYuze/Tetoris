@@ -14,6 +14,7 @@ git clone https://github.com/SleepYuze/Tetoris.git
 cd Tetoris
 
 # Сборка
+В файле CMakeLists.txt добавьте путь к SFML
 mkdir build
 cd build
 cmake ..
